@@ -3,8 +3,8 @@
 A repository to contain all my Go studies.
 
 - [x] 1. Understand the basics of Go, achieved by completing the `Go: The Complete Developer's Guide`.
-- [x] 2. "Get in the reps", doing a Go code-heavy course to build the muscle memory and familiarity of writing Go code.
-- [ ] 3. Learn how to build full applications
+- [x] 2. "Get in the reps" - build the muscle memory of typing Go code by doing a Go code-heavy course to build the muscle memory and familiarity of writing Go code. Achieved this by completing the `Design Patterns in Go`.
+- [ ] 3. _IN PROGRESS_ Learn how to build full applications. Achieving this by completing `Working with Microservices in Go (GoLang)`.
 - [ ] 4. Create own applications
 
 ## Progress
@@ -15,8 +15,11 @@ A repository to contain all my Go studies.
 2. Completed [Design Patterns in Go](https://www.udemy.com/course/design-patterns-go/)
    - [Code](https://github.com/samueljacobs98/go/tree/master/design%20patterns%20in%20go)
    - [Certificate of Completion](https://github.com/samueljacobs98/go/blob/master/certificates/design-patterns-in-go-cert.pdf)
+3. Completing [Working with Microservices in Go (GoLang)](https://www.udemy.com/course/working-with-microservices-in-go/)
 
 ## Books
+
+Below are some useful Go-related resources I've come across:
 
 - [An Introduction to Programming in Go](http://www.golang-book.com)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
