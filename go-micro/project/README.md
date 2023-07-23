@@ -1,7 +1,9 @@
 # Instructions
 
-Build everything needed while in the project directory with `make up_build`
+Build and start all backend microservices `make up_build`
 
-Run everything needed with `make start`
+Start the frontend with `make start`
 
-Stop everything from running with `make down`
+Stop the backend from running with `make down`
+
+Stop the frontend from running with `make stop`
