@@ -16,6 +16,8 @@ A repository to contain all my Go studies.
    - [Code](https://github.com/samueljacobs98/go/tree/master/design%20patterns%20in%20go)
    - [Certificate of Completion](https://github.com/samueljacobs98/go/blob/master/certificates/design-patterns-in-go-cert.pdf)
 3. Completing [Working with Microservices in Go (GoLang)](https://www.udemy.com/course/working-with-microservices-in-go/)
+   - [Code](https://github.com/samueljacobs98/go/tree/go-micro) (currently on branch `go-micro`)
+   - Certificate soon...
 
 ## Books
 
