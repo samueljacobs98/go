@@ -4,7 +4,7 @@ A repository to contain all my Go studies.
 
 - [x] 1. Understand the basics of Go, achieved by completing the `Go: The Complete Developer's Guide`.
 - [x] 2. "Get in the reps" - build the muscle memory of typing Go code by doing a Go code-heavy course to build the muscle memory and familiarity of writing Go code. Achieved this by completing the `Design Patterns in Go`.
-- [ ] 3. Learn how to build full applications. Achieving this by completing `Working with Microservices in Go (GoLang)`.
+- [x] 3. Learn how to build full applications. Achieving this by completing `Working with Microservices in Go (GoLang)`.
 - [ ] 4. Create own applications
 
 ## Progress
